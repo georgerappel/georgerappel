@@ -4,6 +4,12 @@ Check my repositories for a collection of personal projects I've worked on, as w
 
 I have projects in a variety of languages, some that I've used to learn frameworks and tools, others that I've invested a lot of time into making good apps or projects for people. My favorite projects are on the Pinned section below! 
 
+### Main Languages/Frameworks ⤵️
+- Flutter
+- Java (specially for Android)
+- PHP/Laravel
+- Python
+
 ### More about me ⤵️
 
 - My professional background on [Linkedin](https://www.linkedin.com/in/georgerappel/)
