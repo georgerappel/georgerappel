@@ -10,6 +10,14 @@ I have projects in a variety of languages, some that I've used to learn framewor
 - PHP/Laravel
 - Python
 
+### My experience with Flutter
+- [2018] My first contact with Flutter development, it was still in Beta testing and I've started an app.
+- [2018] Developed [Redesign](https://github.com/DevMobUFRJ/redesign), my first publicly available flutter app.
+- [2019] Taught introductory [Flutter workshops](https://github.com/georgerappel/workshop-flutter) at University (2x) and at my previous Informatics Technician course.
+- [2019] Worked on other apps with Flutter, such as [[Germinar]](https://github.com/DevMobUFRJ/Germinar) [[InfoProvas]](https://github.com/DevMobUFRJ/infoprovas)
+- [2020-2021] Graduated BSc in Computer Science, with a Flutter app as [my graduation project](https://github.com/naojogafora/app-flutter)
+
+
 ### More about me ⤵️
 
 - My professional background on [Linkedin](https://www.linkedin.com/in/georgerappel/)
