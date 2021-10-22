@@ -23,7 +23,7 @@ I have projects in a variety of languages, some that I've used to learn framewor
 - [2015-2016] Maintained and lauched other apps for learning, such as a small game and an app to measure distances with GPS.
 - [2016] **Co-Founded a Mobile Study/Development group** at University, [@DevMobUFRJ](https://github.com/orgs/DevMobUFRJ/teams)
 - [2017] Launched a simple app with React Native (not my thing, though)
-- [2017] Learned Xamarin foro a freelance hybrid project
+- [2017] Learned Xamarin for a freelance hybrid project
 - [2018] Launched my first app with **Flutter**
 - [2019-2020] Built and Supported other flutter apps @DevMobUFRJ while leading the group.
 - [2021] Finished a flutter app as my graduation project
