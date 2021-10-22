@@ -31,4 +31,4 @@ I have projects in a variety of languages, some that I've used to learn framewor
 ### More about me ⤵️
 
 - My professional background on [Linkedin](https://www.linkedin.com/in/georgerappel/)
-- Some of my contributions about Android, Flutter, Java and PHP on [StackOverflow](https://stackoverflow.com/users/3758439/george)
+- Check my contributions for Android, Flutter etc on [StackOverflow](https://stackoverflow.com/users/3758439/george)
