@@ -14,14 +14,14 @@ Check my repositories for a collection of personal projects I've worked on, as w
 - Check my contributions on [StackOverflow](https://stackoverflow.com/users/3758439/george)
 
 ### My Backend Experience
-- [2015-2017] As an Undergraduate researcher, managed server and multiple services @hiperorganicos, with JS
+- [2015-2017] As an Undergraduate researcher, managed server and multiple services [@hiperorganicos](https://github.com/hiperorganicos), with JS, Python, Java
 - [2017-2019] Work as Full-stack intern (PHP/Laravel) at the Federal University of Rio de Janeiro.
 - [2019] Built a website integrated for real-time GPS and Radio streaming for a Doctorate project, [Radionomada](http://rodrigopaglieri.art/radionomada.html). 
 - [2021] API built with PHP/Laravel for my Bachelor [graduation project](https://github.com/naojogafora/api)
-- [2021-2022] Work as Java Software Developer @BTGPactual, including AWS Lambda 
+- [2021-2022] Work as Java Software Developer [@BTGPactual](https://github.com/btgpactual), including AWS Lambda 
 - [2022] Certification: AWS Certified Cloud Practicioner (CCP)
 - [2022] Certification: AWS Certified Developer - Associate
-- [2022-present] Work as Python Backend Engineer @Meliuz, building microsservices using AWS
+- [2022-present] Work as Python Backend Engineer [@Meliuz]((https://github.com/meliuz), building microsservices using AWS
 
 ### Mobile Development experience
 - [2014] Started learning native Android with Java, still in High School and Informatics Technician course.
