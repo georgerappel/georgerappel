@@ -1,12 +1,12 @@
-I'm a Backend developer (mostly), with Mobile and Full-stack experience.
+I'm a Backend developer (mostly) with Mobile experience.
 
 Check my repositories for a collection of personal projects I've worked on, as well as university projects (in Python, JS, you name it) I've done with [@DevMobUFRJ](https://github.com/devmobufrj), a mobile development work group I've co-founded at my University. My favorite projects are on the Pinned section below! 
 
 ### Main Languages/Frameworks ⤵️
 - Java
-- PHP/Laravel
 - Python
 - Flutter
+- PHP/Laravel
 
 ### More about me ⤵️
 
