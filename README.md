@@ -21,7 +21,8 @@ Check my repositories for a collection of personal projects I've worked on, as w
 - [2021-2022] Work as Java Software Developer [@BTGPactual](https://github.com/btgpactual), including AWS Lambda 
 - [2022] Certification: AWS Certified Cloud Practicioner (CCP)
 - [2022] Certification: AWS Certified Developer - Associate
-- [2022-present] Work as Python Backend Engineer [@Meliuz]((https://github.com/meliuz), building microsservices using AWS
+- [2022-2023] Work as Python Backend Engineer [@Meliuz](https://github.com/meliuz), building microsservices using AWS
+- [2023-present] Software Engineer [@QuintoAndar](https://github.com/quintoandar)
 
 ### Mobile Development experience
 - [2014] Started learning native Android with Java, still in High School and Informatics Technician course.
